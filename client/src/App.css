@@ -1,10 +1,12 @@
 .button{
   text-decoration: none;
   border: none;
-  background-color: none;
+  background-color: white;
 }
 .button:hover{
   text-decoration: line-through;
+  background-color: white;
+  border: 1px red;
 }
 body{
   display: flex;
